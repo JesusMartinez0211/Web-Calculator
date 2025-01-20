@@ -24,5 +24,3 @@ Here’s a quick overview of the project structure:
 ├── index.html                   # Main HTML file with the structure of the app
 ├── style.css                    # Styling for the app's layout and design
 ├── script.js                    # JavaScript code that handles the functionality
-├── assets/
-│   ├── images/                  # Any images (e.g., icons) used in the app
