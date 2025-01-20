@@ -11,12 +11,7 @@ Welcome to the **Web-based Calculator**! This is a simple yet effective calculat
 - **🔄 Quick and Intuitive**: Perform calculations instantly with minimal clicks.
 - **🎨 Clean & Simple Interface**: Focuses on a minimalistic, user-friendly design.
 
----
 
-## 📸 **Screenshots**
-
-![Web-based Calculator Screenshot](screenshot.png)  
-_A snapshot of the clean, responsive design of the web-based calculator._
 
 ---
 
